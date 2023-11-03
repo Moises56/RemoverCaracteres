@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\RemoverCaracteres\RemoverCaracteres\bin\Debug\RemoverCaracteres.dll
+C:\Users\user\source\repos\RemoverCaracteres\RemoverCaracteres\bin\Debug\RemoverCaracteres.pdb
+C:\Users\user\source\repos\RemoverCaracteres\RemoverCaracteres\obj\Debug\RemoverCaracteres.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RemoverCaracteres\RemoverCaracteres\obj\Debug\RemoverCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RemoverCaracteres\RemoverCaracteres\obj\Debug\RemoverCaracteres.dll
+C:\Users\user\source\repos\RemoverCaracteres\RemoverCaracteres\obj\Debug\RemoverCaracteres.pdb
